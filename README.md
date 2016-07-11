@@ -1,4 +1,4 @@
-## Website for AR/VR Women's Academy
+## Website for the ARVR Academy Meetup
 Contact: [Liv Erickson](@mailto:livi.erickson@gmail.com)
 
 ## Template Copyright and License
